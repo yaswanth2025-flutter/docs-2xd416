@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-nru4wm.quietmatches.com/sitemap.xml
